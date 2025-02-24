@@ -8,6 +8,8 @@
 
 # 2월 4주차
 - 00_numpy
+- 01_datastructure
+- 02_file_load_save
 
 ```
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
