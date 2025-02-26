@@ -13,6 +13,9 @@
 - 03_query
 - 04_statistics
 - 05_missing_value
+- 06_preprocessing
+- 07_group
+- 08_concat
 
 ```
 #내맘대로TIL챌린지 #동아일보 #미디어프론티어 #글로벌소프트웨어캠퍼스 #GSC신촌
